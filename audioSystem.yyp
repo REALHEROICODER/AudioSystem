@@ -1,8 +1,6 @@
 {
   "resources": [
     {"id":{"name":"o_TrainAudioController","path":"objects/o_TrainAudioController/o_TrainAudioController.yy",},"order":8,},
-    {"id":{"name":"o_Leave","path":"objects/o_Leave/o_Leave.yy",},"order":9,},
-    {"id":{"name":"o_Train1","path":"objects/o_Train1/o_Train1.yy",},"order":5,},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
     {"id":{"name":"Collision_Movement","path":"scripts/Collision_Movement/Collision_Movement.yy",},"order":0,},
     {"id":{"name":"Edaimonia","path":"sounds/Edaimonia/Edaimonia.yy",},"order":1,},
@@ -11,7 +9,6 @@
     {"id":{"name":"airtone___spacedust_1","path":"sounds/airtone___spacedust_1/airtone___spacedust_1.yy",},"order":5,},
     {"id":{"name":"o_crate","path":"objects/o_crate/o_crate.yy",},"order":3,},
     {"id":{"name":"texasradiofish___Brush_Strokes","path":"sounds/texasradiofish___Brush_Strokes/texasradiofish___Brush_Strokes.yy",},"order":3,},
-    {"id":{"name":"o_Train2","path":"objects/o_Train2/o_Train2.yy",},"order":6,},
     {"id":{"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},"order":1,},
     {"id":{"name":"s_area","path":"sprites/s_area/s_area.yy",},"order":4,},
     {"id":{"name":"Transition","path":"scripts/Transition/Transition.yy",},"order":1,},
@@ -20,7 +17,6 @@
     {"id":{"name":"duckett___Duckpoxode_Syrup__Protean_Mix_","path":"sounds/duckett___Duckpoxode_Syrup__Protean_Mix_/duckett___Duckpoxode_Syrup__Protean_Mix_.yy",},"order":0,},
     {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},"order":2,},
     {"id":{"name":"The_Skorupa_Wilds_01","path":"sounds/The_Skorupa_Wilds_01/The_Skorupa_Wilds_01.yy",},"order":4,},
-    {"id":{"name":"o_End","path":"objects/o_End/o_End.yy",},"order":7,},
     {"id":{"name":"PorchCat___Strange_Times_Slow_Dreams","path":"sounds/PorchCat___Strange_Times_Slow_Dreams/PorchCat___Strange_Times_Slow_Dreams.yy",},"order":2,},
   ],
   "Options": [
