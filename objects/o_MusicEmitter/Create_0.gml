@@ -1,12 +1,9 @@
-ref_amount = 200;
-max_amount = 50;
-factor_amount = 5;
+s_emitter = audio_emitter_create();
+audio_max_hearing_distance = 750;
+max_audio_area = 50;
 
-already_been_hit = false;
-audio_emitter = audio_emitter_create();
-audio_emitter_position(audio_emitter,x,y,0);
-audio_falloff_set_model(audio_falloff_exponent_distance);
+audio_falloff_set_model(audio_falloff_linear_distance);
+audio_emitter_position(s_emitter,x,y,0)
+audio_emitter_falloff(s_emitter,max_audio_area,audio_max_hearing_distance,1);
 
-if (is_repeatable){
-	audio_play_sound_at(music,x,y,0,ref_amount,max_amount,factor_amount,true,1);
-}
+state = 0;
