@@ -1,0 +1,3 @@
+Crossfade(Sound_Id_To_Stop, Time_to_Stop, Sound_Id_To_Start, priority, loops, Time_To_Reach_max_audio);
+FadeIn(Sound_To_fade_In, priority, loop, Time_To_Fade_In);
+FadeOut(Sound_To_Fade_Out, Time_To_Fade_out);
